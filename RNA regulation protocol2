@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T02:26:28.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="siwf6JQsWJkuacHS267m" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T04:55:35.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="wC8OTL7IbVgZ9ZypGld5" version="14.6.3" type="github">
   <diagram id="Gy6BkRGZ7in90EVBQauc" name="Page-1">
-    <mxGraphModel dx="1464" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oaK7xJyBo4zjGPSpHtt--1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="oaK7xJyBo4zjGPSpHtt--1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="220" y="20" width="1710" height="1550" as="geometry" />
         </mxCell>
         <mxCell id="axpy7hXBV0wHHxuQNzQv-5" value="&lt;font style=&quot;font-size: 22px&quot; face=&quot;Comic Sans MS&quot;&gt;RNA-seq&lt;br&gt;(.fastq.gz)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="oaK7xJyBo4zjGPSpHtt--1" vertex="1">
@@ -259,7 +259,7 @@
         <mxCell id="axpy7hXBV0wHHxuQNzQv-164" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-decoration: none ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 26px&quot; face=&quot;Comic Sans MS&quot;&gt;Script&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#1D3557;" parent="axpy7hXBV0wHHxuQNzQv-119" vertex="1">
           <mxGeometry x="149" y="72" width="93.515625" height="38.11475409836066" as="geometry" />
         </mxCell>
-        <mxCell id="axpy7hXBV0wHHxuQNzQv-121" value="&lt;span style=&quot;font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none&quot;&gt;&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 30px&quot; face=&quot;Comic Sans MS&quot;&gt;Part III Comprehensive analysis&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="oaK7xJyBo4zjGPSpHtt--1" vertex="1">
+        <mxCell id="axpy7hXBV0wHHxuQNzQv-121" value="&lt;span style=&quot;font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none&quot;&gt;&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 30px&quot; face=&quot;Comic Sans MS&quot;&gt;Part III Data Integration&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="oaK7xJyBo4zjGPSpHtt--1" vertex="1">
           <mxGeometry x="79.75546874999999" y="1321.311475409836" width="614.53125" height="38.11475409836066" as="geometry" />
         </mxCell>
         <mxCell id="axpy7hXBV0wHHxuQNzQv-122" value="&lt;font style=&quot;font-size: 26px&quot; face=&quot;Comic Sans MS&quot;&gt;Transcription structure changes and Translation efficiency changes analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="oaK7xJyBo4zjGPSpHtt--1" vertex="1">
